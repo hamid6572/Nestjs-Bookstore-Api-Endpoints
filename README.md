@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Bookstore API - README
 
 This repository contains the source code for a simple Bookstore API implemented with Nest.js, Prisma.js, RabbitMQ, and PostgreSQL.
@@ -68,4 +66,3 @@ The following APIs are available in the Bookstore API:
 - DELETE /orders/:id - Cancels an existing order.
 - GET /orders - Retrieves a list of orders with pagination support.
 Please refer to the Swagger UI documentation at http://localhost:3001/api for more details on the available endpoints and their usage.
-# Nestjs-Bookstore-Api-s
